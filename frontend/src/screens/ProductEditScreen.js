@@ -10,11 +10,7 @@ import { listProductDetails, updateProduct } from '../actions/productActions'
 import { PRODUCT_UPDATE_RESET } from '../constants/productConstants'
 import S3 from 'react-aws-s3';
 const config = {
-  bucketName: 'eshopbucket09',
-  dirName: 'upload',
-  region: 'eu-central-1',
-  accessKeyId: 'AKIA57DPGBLPMD5LY5UM',
-  secretAccessKey: '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'
+
 }
 
 const ReactS3Client = new S3(config);
