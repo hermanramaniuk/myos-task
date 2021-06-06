@@ -10,4 +10,4 @@
 
 # Deployed URL on Herokuapp.com
 - https://murmuring-lowlands-92327.herokuapp.com
-- admin account: admin/123456
+- admin account: admin@test.com/123456
