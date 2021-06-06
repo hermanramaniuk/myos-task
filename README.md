@@ -8,4 +8,6 @@
 
 - deployment: herokuapp.com
 
-# Live Demo
+# Deployed URL on Herokuapp.com
+- https://murmuring-lowlands-92327.herokuapp.com
+- admin account: admin/123456
